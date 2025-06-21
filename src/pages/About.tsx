@@ -34,7 +34,7 @@ const About = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-white max-w-2xl"
           >
-            <h1 className="text-5xl font-bold mb-6">Feeding Hope to Street Dogs.</h1>
+            <h1 className="text-5xl font-bold mb-6">Feeding Hope to Street Dogs. HII</h1>
             <p className="text-xl mb-8">Connecting restaurants with NGOs to ensure no street dog goes hungry. Join our mission to make a difference in their lives.</p>
             <button className="bg-green-600 text-white px-8 py-3 rounded-full text-lg font-semibold hover:bg-green-700 transition-colors duration-300 shadow-lg">
               Join Our Mission
